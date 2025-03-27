@@ -1,1 +1,1 @@
-Mis resumenes sobre las bases de Python
+Codigos ejemplo de la teoria

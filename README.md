@@ -1,1 +1,1 @@
-Mis resumenes de Python
+Mis resumenes sobre las bases de Python

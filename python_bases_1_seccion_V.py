@@ -1,6 +1,6 @@
 """
 Este archivo reproduce los codigos mostrados como ejemplo en el
-PDF Python I: Bases I - Seccion III
+PDF Python I: Bases I - Seccion V
 """
 
 # Crear y acceder a los datos de un diccionario

@@ -1,6 +1,6 @@
 """
 Este archivo reproduce los codigos mostrados como ejemplo en el
-PDF Python I: Bases I - Seccion VII
+PDF Python I: Bases I - Seccion VIII
 """
 
 # Clae base

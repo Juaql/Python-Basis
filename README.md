@@ -8,4 +8,4 @@ Python Software Foundation. (2024). The Python Tutorial. Retrieved from https://
 
 Python Cheat Sheet. (s.f.). Lists and Tuples. Recuperado el [fecha de acceso], de https://www.pythoncheatsheet.org/cheatsheet/lists-and-tuples
 
-González Duque, R. (s.f.). Python para todos. Mundo Geek. Recuperado de http://mundogeek.net/tutorial-python/
+González Duque, R. (s.f.). Python para todos.
